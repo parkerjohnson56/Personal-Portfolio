@@ -224,6 +224,16 @@
   color: #fe375b;
   font-family: "Pacifico", cursive !important;
 }
+.project-two{
+  background-color:#7f4f24;
+  border: 1px solid #282804;
+}
+.project-two-title{
+color:white;
+font-family: "Pacifico", cursive !important;
+
+
+}
 .project-one img {
 }
 
