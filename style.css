@@ -231,12 +231,15 @@
 .project-two-title{
 color:white;
 font-family: "Pacifico", cursive !important;
-
+}
 .project-three{
-  background-color:#837e5a;
+  background-color:#1b2b12;
   border: 1px solid #282804;
 }
 
+.project-three-title{
+  color:##718963;
+font-family: "Pacifico", cursive !important;
 }
 .project-one img {
 }
