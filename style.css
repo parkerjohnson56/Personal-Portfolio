@@ -232,6 +232,10 @@
 color:white;
 font-family: "Pacifico", cursive !important;
 
+.project-three{
+  background-color:#837e5a;
+  border: 1px solid #282804;
+}
 
 }
 .project-one img {
